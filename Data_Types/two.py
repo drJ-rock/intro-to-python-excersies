@@ -1,0 +1,1 @@
+names = ('Spot', 'Doggo', 'Shaggy', 'Captain', 'Jasper')
