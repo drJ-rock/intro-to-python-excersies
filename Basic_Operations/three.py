@@ -1,0 +1,1 @@
+print('5' + '10') #prints the concatenation of the strings '5' and '10': 510

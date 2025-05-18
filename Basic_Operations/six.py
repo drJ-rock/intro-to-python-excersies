@@ -1,0 +1,1 @@
+'foo' == 'Foo' #false, bc 'F' is < 'f' 
