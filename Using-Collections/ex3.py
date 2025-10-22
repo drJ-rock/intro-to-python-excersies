@@ -1,0 +1,7 @@
+my_tup = (1, 2, 3, 4, 5)
+my_list = list(my_tup)
+my_list.remove(1)
+my_list.pop()
+my_list.reverse()
+tup_2 = tuple(my_list)
+print(tup_2)
